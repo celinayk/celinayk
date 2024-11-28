@@ -1,4 +1,4 @@
-## yeonkyung ryu, Backend Engineer 👋
+## Yeonkyung Ryu, Backend Engineer 
 
 <!--
 **celinayk/celinayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
