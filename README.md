@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celinayk&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celinayk&layout=compact)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={celinayk})](https://solved.ac/{celinayk})
