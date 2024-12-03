@@ -26,6 +26,25 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+---
+🏆 Award history
+
+- 🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상 | 봉림 소프트웨어 전시회 우수상  
+  - 하이브리드 접근법을 통한 창원시 수소충전소 최적 입지 분석  
+
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
+
 
 ![celinayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=celinayk&show_icons=true&theme=radical)
 
