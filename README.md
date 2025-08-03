@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 🏆 Award history
 
 - 🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상 | 봉림 소프트웨어 전시회 우수상  
-  - 하이브리드 접근법을 통한 창원시 수소충전소 최적 입지 분석
+  - 하이브리드 접근법을 통한 창원시 수소충전소 최적 입지 분석 | 
+    Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning
     
 <br />
 👩🏻‍💻 OpenSource Contribute
