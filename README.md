@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br />
 👩🏻‍💻 OpenSource Contribute
 
- - [ZEPPELIN-6184](https://issues.apache.org/jira/browse/ZEPPELIN-6184)  Refine contribution guide
+ - [ZEPPELIN-6184]([https://issues.apache.org/jira/browse/ZEPPELIN-6184](https://github.com/apache/zeppelin-site/pull/31))  Refine contribution guide
 
 
 <br />
