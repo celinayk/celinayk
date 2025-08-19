@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 [ZEPPELIN-6280](https://github.com/apache/zeppelin/pull/5028)  Remove unused LivyPySpark3Interpreter class
 
+[ZEPPELIN-6281](https://github.com/apache/zeppelin/pull/5029)  Add Unit Tests for LivyVersion Class
+
 <br />
 <br />
 <br />
