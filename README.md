@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 👩🏻‍💻 OpenSource Contribute
 
  - [ZEPPELIN-6184](https://github.com/apache/zeppelin-site/pull/31)  Refine contribution guide
- - [ZEPPELIN-6276](https://issues.apache.org/jira/browse/ZEPPELIN-6276)  Replace Deprecated Number Constructors for Java 11
+ - [ZEPPELIN-6276](https://github.com/apache/zeppelin/pull/5027)  Replace Deprecated Number Constructors for Java 11
 
 
 <br />
