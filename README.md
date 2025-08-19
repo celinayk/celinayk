@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 [ZEPPELIN-6276](https://github.com/apache/zeppelin/pull/5027)  Replace Deprecated Number Constructors for Java 11
 
+[ZEPPELIN-6280](https://github.com/apache/zeppelin/pull/5028)  Remove unused LivyPySpark3Interpreter class
 
 <br />
 <br />
