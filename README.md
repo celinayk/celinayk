@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 -->
 
 
-🛠 Tech Stack        
+----
+<h3>🛠 Tech Stack </h3>       
 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 ----
 <h3>🏆 Award history</h3>
 
@@ -56,7 +58,6 @@ Here are some ideas to get you started:
 
   
   🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
-    
 <br />
 
 ---
