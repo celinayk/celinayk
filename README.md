@@ -31,18 +31,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
----
-🏆 Award history
+----
+<h3>🏆 Award history</h3>
 
-- 🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상 | 봉림 소프트웨어 전시회 우수상  
-  - 하이브리드 접근법을 통한 창원시 수소충전소 최적 입지 분석 | 
-    Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning
+  Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning
+  🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
     
 <br />
-👩🏻‍💻 OpenSource Contribute
 
- - [ZEPPELIN-6184](https://github.com/apache/zeppelin-site/pull/31)  Refine contribution guide
- - [ZEPPELIN-6276](https://github.com/apache/zeppelin/pull/5027)  Replace Deprecated Number Constructors for Java 11
+---
+<h3>🌍 Opensource Contribution</h3>
+
+[ZEPPELIN-6184](https://github.com/apache/zeppelin-site/pull/31)  Refine contribution guide
+
+
+[ZEPPELIN-6276](https://github.com/apache/zeppelin/pull/5027)  Replace Deprecated Number Constructors for Java 11
 
 
 <br />
