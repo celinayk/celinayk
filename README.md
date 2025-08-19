@@ -1,4 +1,9 @@
-## Yeonkyung Ryu, Backend Engineer     
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=YeonkyungRyu's%20GitHub&fontSize=42" />
+
+
+<div align=center>
+<h3>꾸준히 성장하는 개발자 류연경입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
 
 <!--
 **celinayk/celinayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
