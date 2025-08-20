@@ -5,25 +5,11 @@
 <h3>꾸준히 성장하는 개발자 류연경입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3>
 
-<!--
-**celinayk/celinayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ----
-<h3>🛠 Tech Stack </h3>       
+<div align="left">
+  
+## 🛠 Tech Stack       
 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
@@ -51,26 +37,67 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-----
-<h3>🏆 Award history</h3>
 
-  Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning
+</div>
+---
+<div align="left">
 
-  
-  🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
-<br />
+## 🌍 Opensource Contribution
+
+- <a href="https://github.com/apache/zeppelin-site/pull/31">ZEPPELIN-6184</a> Refine contribution guide  
+- <a href="https://github.com/apache/zeppelin/pull/5027">ZEPPELIN-6276</a> Replace Deprecated Number Constructors for Java 11  
+- <a href="https://github.com/apache/zeppelin/pull/5028">ZEPPELIN-6280</a> Remove unused LivyPySpark3Interpreter class  
+- <a href="https://github.com/apache/zeppelin/pull/5029">ZEPPELIN-6281</a> Add Unit Tests for LivyVersion Class
+
+</div>
 
 ---
-<h3>🌍 Opensource Contribution</h3>
+<div align="left">
 
-[ZEPPELIN-6184](https://github.com/apache/zeppelin-site/pull/31)  Refine contribution guide
+## 🏆 Award history
+
+Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning   
+🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
+
+</div>
+
+---
+<div align="left">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=celinayk&show_icons=true&theme=solarized-light" alt="celinayk's GitHub stats">
+<a href="https://solved.ac/celinayk">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=celinayk" alt="Solved.ac 프로필">
+</a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=celinayk&theme=dawnfox&card_width=400&card_height=130" alt="GitHub Streak">
+</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinayk&layout=compact" alt="Top Langs">
 
 
-[ZEPPELIN-6276](https://github.com/apache/zeppelin/pull/5027)  Replace Deprecated Number Constructors for Java 11
 
-[ZEPPELIN-6280](https://github.com/apache/zeppelin/pull/5028)  Remove unused LivyPySpark3Interpreter class
+</div>
 
-[ZEPPELIN-6281](https://github.com/apache/zeppelin/pull/5029)  Add Unit Tests for LivyVersion Class
+---
+<div align="left">
+
+## 📬 Contacts
+
+<a href="https://celinayk.tistory.com/">
+  <img alt="Tech Blog" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
+<a href="celina.16161616@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+<a href="https://www.linkedin.com/in/celinayk/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
+
+
+</div>
+
+<br />
 
 <br />
 <br />
@@ -82,10 +109,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-![celinayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=celinayk&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celinayk&layout=compact)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=celinayk)](https://solved.ac/celinayk)
