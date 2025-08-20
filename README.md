@@ -56,7 +56,7 @@
 ---
 <div align="left">
 
-## 🏆 Award history
+## 🏆 Award History
 
 - Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning   
 🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
