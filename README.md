@@ -50,6 +50,7 @@
 - <a href="https://github.com/apache/zeppelin/pull/5027">ZEPPELIN-6276</a> Replace Deprecated Number Constructors for Java 11  
 - <a href="https://github.com/apache/zeppelin/pull/5028">ZEPPELIN-6280</a> Remove unused LivyPySpark3Interpreter class  
 - <a href="https://github.com/apache/zeppelin/pull/5029">ZEPPELIN-6281</a> Add Unit Tests for LivyVersion Class
+- <a href="https://github.com/apache/zeppelin/pull/5055">ZEPPELIN-6307</a> Rename fieldname in NewNoteRequest class
 
 </div>
 
