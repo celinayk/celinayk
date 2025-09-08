@@ -51,6 +51,7 @@
 - <a href="https://github.com/apache/zeppelin/pull/5028">ZEPPELIN-6280</a> Remove unused LivyPySpark3Interpreter class  
 - <a href="https://github.com/apache/zeppelin/pull/5029">ZEPPELIN-6281</a> Add Unit Tests for LivyVersion Class
 - <a href="https://github.com/apache/zeppelin/pull/5055">ZEPPELIN-6307</a> Rename fieldname in NewNoteRequest class
+- <a href="https://github.com/apache/zeppelin/pull/5056">ZEPPELIN-6308</a> Extract hardcoded py4j values to constants
 
 </div>
 
