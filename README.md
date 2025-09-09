@@ -44,7 +44,7 @@
 
 <div align="left">
 
-## 🌍 Opensource Contribution
+## 🌍 OpenSource Contribution
 
 - <a href="https://github.com/apache/zeppelin-site/pull/31">ZEPPELIN-6184</a> Refine contribution guide  
 - <a href="https://github.com/apache/zeppelin/pull/5027">ZEPPELIN-6276</a> Replace Deprecated Number Constructors for Java 11  
