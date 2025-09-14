@@ -5,6 +5,7 @@
 <h3>안녕하세요! 무엇이든 빠르게 습득하는 개발자 류연경입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 </h3> 
 
+문제를 해결하기 위해 새로운 기술을 도입하는 과정에 관심이 많습니다.
 
 ---- 
 <div align="left">
