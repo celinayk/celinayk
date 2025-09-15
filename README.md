@@ -1,11 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=YeonkyungRyu's%20GitHub&fontSize=42" />
 
 
-<div align=center>
-<h3>안녕하세요! 무엇이든 빠르게 습득하는 개발자 류연경입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
-</h3> 
+<div align="center">
+  <h3>
+    안녕하세요! 빠르게 배우고 성장하는 개발자 류연경입니다! 😆 <br/>
+    Hello! I'm Ryu Yeon-kyung, a fast-learning and growing developer 😆
+  </h3>
+</div>
 
-문제를 해결하기 위해 새로운 기술을 도입하는 과정에 관심이 많습니다.
+ 
+
+
+<div align="left">
+
+- 문제를 해결하기 위해 새로운 기술을 도입하는 과정에 관심이 많습니다.
+- 개발 과정에서 쌓이는 지식을 체계적으로 문서화하는 것을 중시하며, 팀 전체가 동일한 수준의 서비스 이해도를 가질 수 있도록 문서 기반 협업 문화를 주도해왔습니다.
+
+</div>
+
 
 ---- 
 <div align="left">
