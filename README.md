@@ -19,7 +19,37 @@
 </div>
 
 
----- 
+
+</div>
+
+---
+
+<div align="left">
+
+## 🌍 OpenSource Contribution
+
+- <a href="https://github.com/apache/zeppelin-site/pull/31">ZEPPELIN-6184</a> Refine contribution guide  
+- <a href="https://github.com/apache/zeppelin/pull/5027">ZEPPELIN-6276</a> Replace Deprecated Number Constructors for Java 11  
+- <a href="https://github.com/apache/zeppelin/pull/5028">ZEPPELIN-6280</a> Remove unused LivyPySpark3Interpreter class  
+- <a href="https://github.com/apache/zeppelin/pull/5029">ZEPPELIN-6281</a> Add Unit Tests for LivyVersion Class
+- <a href="https://github.com/apache/zeppelin/pull/5055">ZEPPELIN-6307</a> Rename fieldname in NewNoteRequest class
+- <a href="https://github.com/apache/zeppelin/pull/5056">ZEPPELIN-6308</a> Extract hardcoded py4j values to constants
+- <a href="https://github.com/apache/zeppelin/pull/5063">ZEPPELIN-6309</a> Improve method by replacing JsonObject parameter
+
+</div>
+
+---
+<div align="left">
+
+## 🏆 Award History
+
+- Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning   
+🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
+
+</div>
+
+
+---
 <div align="left">
   
 ## 🛠 Tech Stack       
@@ -50,37 +80,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-
 </div>
 
 ---
-
-<div align="left">
-
-## 🌍 OpenSource Contribution
-
-- <a href="https://github.com/apache/zeppelin-site/pull/31">ZEPPELIN-6184</a> Refine contribution guide  
-- <a href="https://github.com/apache/zeppelin/pull/5027">ZEPPELIN-6276</a> Replace Deprecated Number Constructors for Java 11  
-- <a href="https://github.com/apache/zeppelin/pull/5028">ZEPPELIN-6280</a> Remove unused LivyPySpark3Interpreter class  
-- <a href="https://github.com/apache/zeppelin/pull/5029">ZEPPELIN-6281</a> Add Unit Tests for LivyVersion Class
-- <a href="https://github.com/apache/zeppelin/pull/5055">ZEPPELIN-6307</a> Rename fieldname in NewNoteRequest class
-- <a href="https://github.com/apache/zeppelin/pull/5056">ZEPPELIN-6308</a> Extract hardcoded py4j values to constants
-- <a href="https://github.com/apache/zeppelin/pull/5063">ZEPPELIN-6309</a> Improve method by replacing JsonObject parameter
-
-</div>
-
----
-<div align="left">
-
-## 🏆 Award History
-
-- Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning   
-🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
-
-</div>
-
----
-<div align="left">
 
 ## 📊 GitHub Stats
 
