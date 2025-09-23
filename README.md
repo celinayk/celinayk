@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>
-    안녕하세요! 무엇이든 빠르게 습득하는 개발자 류연경입니다! 😆 <br/>
+    안녕하세요! 무엇이든 빠르게 배우는 개발자 류연경입니다! 😆 <br/>
     Hello! I'm Ryu Yeon-kyung, a fast-learning and growing developer 😆
   </h3>
 </div>
