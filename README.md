@@ -90,9 +90,6 @@
 <a href="https://solved.ac/celinayk">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=celinayk" alt="Solved.ac 프로필">
 </a>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=celinayk&theme=dawnfox&card_width=400&card_height=130" alt="GitHub Streak">
-</a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinayk&layout=compact" alt="Top Langs">
 
 
