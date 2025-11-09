@@ -43,6 +43,9 @@
 
 ## 🏆 Award History
 
+- 2025 OpenSource Contribution Academy - Appache Zeppelin  
+🥇 Grand Prize (Minister of Science and ICT Award) | 대상 (과학기술정보통신부 장관상)
+
 - Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning   
 🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
 
