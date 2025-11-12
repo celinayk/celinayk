@@ -43,10 +43,10 @@
 
 ## 🏆 Award History
 
-- 2025 OpenSource Contribution Academy - Apache Zeppelin (25.12)  
+- 2025 OpenSource Contribution Academy - Apache Zeppelin (2025.12)  
 🥇 Grand Prize (Minister of Science and ICT Award) | 대상 (과학기술정보통신부 장관상)
 
-- Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning (24.06)  
+- Analysis of Optimal Location Model of Hydrogen Charging Station in Changwon-si via Machine Learning (2024.06)  
 🥈 LG CNS Entrue DX Journal 대학(원)생 논문 공모전 우수상
 
 </div>
