@@ -90,11 +90,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=celinayk&show_icons=true&theme=solarized-light" alt="celinayk's GitHub stats">
 <a href="https://solved.ac/celinayk">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=celinayk" alt="Solved.ac 프로필">
 </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinayk&layout=compact" alt="Top Langs">
 
 
 
