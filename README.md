@@ -37,6 +37,7 @@
 - <a href="https://github.com/apache/zeppelin/pull/5056">ZEPPELIN-6308</a> Extract hardcoded py4j values to constants
 - <a href="https://github.com/apache/zeppelin/pull/5063">ZEPPELIN-6309</a> Improve method by replacing JsonObject parameter
 - <a href="https://github.com/apache/zeppelin/pull/5298">ZEPPELIN-6496</a> Replace BigQuery polling stdout output with SLF4J logging
+- <a href="https://github.com/apache/zeppelin/pull/5331">ZEPPELIN-6502</a> Replace deprecated openjdk Docker image with Eclipse Temurin
 - <a href="https://github.com/apache/zeppelin/pull/5297">ZEPPELIN-6509</a> Add error handling and safety guards to genthrift.sh
 
 </div>
