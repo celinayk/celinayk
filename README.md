@@ -2,26 +2,23 @@
 
  
 <div align="center">
-  <h3>
-    안녕하세요! 무엇이든 빠르게 배우는 개발자 류연경입니다! 😆 <br/>
-    Hello! I'm Ryu Yeon-kyung, a fast-learning and growing developer 😆
-  </h3>
-</div>
 
- 
- 
-
-<div align="left">
-
-- 문제를 해결하기 위해 새로운 기술을 도입하는 과정에 관심이 많습니다.
-- 개발 과정에서 쌓이는 지식을 체계적으로 문서화하여 팀 협업 효율을 높이는 것을 중요하게 생각합니다.
-- 필요한 기술이나 프로젝트를 먼저 제안하고 실행하는 적극적인 성향입니다.
+### 레거시와 AI를 연결하는 개발자 류연경입니다
+### Hi, I'm Yeonkyung — I connect legacy systems to AI
 
 </div>
 
+- 🔌 **API가 없는 시스템도 AI가 쓸 수 있게 엽니다.**
+  ERP 데이터를 REST → MCP로 감싸 사내 AI 에이전트에 연결했습니다.
+  <sub>Opening up systems with no API to AI — ERP data wrapped in REST → MCP for an internal AI agent.</sub>
 
+- 🏗️ **사내에 없던 인프라를 처음 세워왔습니다.**
+  Elasticsearch 전사 최초 도입, SVN → GitLab 전환, GitOps 배포 표준화.
+  <sub>Building infrastructure that wasn't there — first Elasticsearch adoption, SVN → GitLab, GitOps.</sub>
 
-</div>
+- 📝 **선택의 이유를 남기는 것까지가 구축이라고 생각합니다.**
+  <sub>Writing down why, not just what.</sub>
+
 
 ---
 
